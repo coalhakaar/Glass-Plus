@@ -9,11 +9,11 @@ To install Glass Plus, you have to link the stylesheet (in your head of the HTML
 ```
 To add glassmorphism, you can choose between three classes:
 ```html
-class="glass"
+<div class="glass">Default</div>
 ```
 ```html
-class="glass dark"
+<div class="glass dark">Dark</div>
 ```
 ```html
-class="glass light"
+<div class="glass light">Light</div>
 ```
